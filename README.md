@@ -5,7 +5,8 @@
 IP: 13.233.62.118
 SSH Port: 2200
 URL: http://13.233.62.118.xip.io/
-
+Password for user grader: toortoor
+Private-key: added in the note when submitting the project
 ## Application Installed 
 
 `sudo apt-get install apache2 libapache2-mod-wsgi-py3 pip3` 
