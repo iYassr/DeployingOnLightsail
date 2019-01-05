@@ -10,7 +10,7 @@ URL: http://13.233.62.118.xip.io/
 
 `sudo apt-get install apache2 libapache2-mod-wsgi-py3 pip3` 
 
-## Configuration changes and Security Hardeninig
+## Configuration Changes and Security Hardeninig
 
 | Change Made | Why |
 | --- | --- |
